@@ -1,0 +1,202 @@
+/* reset */
+*{
+  margin: 0;
+  padding: 0;
+}
+
+/* common */
+body{
+  font-family: 'Poiret One', YuGothic, Meiryo, sans-serif;
+  font-size: 14px;
+  color: #000;
+    
+}
+
+li{
+  list-style-type: none;
+    
+}
+
+header a{
+  text-decoration: none;
+  color: #fff;
+    
+}
+
+a:hover{
+  color: #01A9DB;
+}
+
+/* layout and grid */
+.container{
+  width: 960px;
+  margin: 0 auto;
+  overflow: hidden;
+      background-size: cover;
+    text-align: center;
+color:#000;
+}
+
+
+
+/* header */
+header{
+  overflow: hidden;
+  padding: 5px 0;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  background: rgba(0, 0, 0, 0.5);
+ 
+}
+
+nav{    text-align: center;
+
+  
+}
+
+nav li{
+  margin-right: 16px;
+  display: inline-block;
+  font-size: 25px;
+    text-align: center;
+    color: #fff:
+}
+
+/* key-visual */
+.key-visual{
+  background: url(img/sss.png);
+  background-size: cover;
+  min-height: 500px;
+  padding-top: 400px;
+    text-align: center;
+}
+
+
+
+
+
+
+}
+
+
+/* introduction */
+
+#introduction {
+text-align: center;
+}
+
+#introduction h3 {
+  color: #000;
+  font-size: 50px;
+  margin-top: 80px ;
+    text-align: center;
+   
+}
+
+#introduction p{
+    font-size: 20px;
+    width: 960px;
+    text-align: center;
+    line-height: 2;
+}
+
+}
+
+/* character */
+#character {
+  text-align: center;
+  background: #000;
+  padding-bottom: 100px;
+    text-align: center;
+}
+
+#character h3 {
+  
+  font-size: 50px;
+  margin-top: 80px;
+    text-align: center;
+}
+#character p{
+ font-size: 20px;
+    width: 956px;
+    text-align: center;
+    line-height: 2;
+}
+
+#how {
+text-align: center;}
+
+#how h3 {
+  color: #000;
+  font-size: 50px;
+  margin-top: 80px ;
+    text-align: center;
+}
+
+#how p{
+    font-size: 20px;
+    width: 956px;
+    text-align: center;
+    line-height: 2;
+}
+
+
+
+
+
+/* signup */
+.ddd{
+    background-image: url(maru.png);
+    background-size: cover;
+    width: 214px;
+    height:190px;
+    margin-left:390px;
+    text-align: center;
+
+}
+
+#sign {
+   
+}
+#signup h3 {
+ 
+  font-size: 50px;
+  padding-top: 70px;
+  text-align: center;
+    
+}
+
+
+#signup p{
+    font-size: 30px;
+  margin-top: 90px;
+    text-align: center;
+}
+
+#signup a{
+    line-height: 175px;
+    color: #fff;
+}
+
+
+#signup a:hover {
+  background: grey;
+    font-size; 200px:
+}
+#signup img{
+height: 190px;
+    
+top:-40px}
+
+/* footer */
+footer {color:#fff;
+      background-size: cover;
+  background: grey;
+  padding: 10px ;
+  margin-top: 200px;
+text-align: center;
+}
+footer p{
+    color:#fff;
+}
